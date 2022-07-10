@@ -1,4 +1,4 @@
-name: Python safety check
+name: safety check
 
 on:
 
